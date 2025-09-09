@@ -1,6 +1,6 @@
 Hi there, I'm Ashwitha ✨
 
-🚀 About Me
+🚀 About Me</br>
 🔌 Background: Electrical Engineering from NIT with a passion for decentralized technologies</br>
 ⛓️ Blockchain Focus: Multi-chain development and DeFi innovation</br>
 🌟 Current Work: Constantly building and experimenting with DeFi protocols</br>
